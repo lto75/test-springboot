@@ -1,4 +1,4 @@
-package hello;
+package fr.test.models;
 
 import org.springframework.stereotype.Component;
 
