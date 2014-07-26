@@ -1,0 +1,16 @@
+##compilation specific
+.class
+
+#intellij specific 
+*.iml
+.idea
+
+
+## generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+
+target
